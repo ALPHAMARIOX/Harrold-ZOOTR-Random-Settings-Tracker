@@ -35,46 +35,46 @@
             this.tpgHints = new System.Windows.Forms.TabPage();
             this.tpgLocations = new System.Windows.Forms.TabPage();
             this.tpgWarps = new System.Windows.Forms.TabPage();
-            this.grpWarpSongs = new System.Windows.Forms.GroupBox();
-            this.grpOwl = new System.Windows.Forms.GroupBox();
             this.grpSpawns = new System.Windows.Forms.GroupBox();
-            this.picMinuet = new System.Windows.Forms.PictureBox();
-            this.picBolero = new System.Windows.Forms.PictureBox();
-            this.picSerenade = new System.Windows.Forms.PictureBox();
-            this.picNocturne = new System.Windows.Forms.PictureBox();
-            this.picRequiem = new System.Windows.Forms.PictureBox();
-            this.picPrelude = new System.Windows.Forms.PictureBox();
-            this.picLHOwl = new System.Windows.Forms.PictureBox();
-            this.picDMTOwl = new System.Windows.Forms.PictureBox();
-            this.lblLHOwl = new System.Windows.Forms.Label();
+            this.txtAdult = new System.Windows.Forms.TextBox();
+            this.txtChild = new System.Windows.Forms.TextBox();
+            this.picAdult = new System.Windows.Forms.PictureBox();
+            this.picChild = new System.Windows.Forms.PictureBox();
+            this.grpOwl = new System.Windows.Forms.GroupBox();
+            this.txtDMTOwl = new System.Windows.Forms.TextBox();
+            this.txtLHOwl = new System.Windows.Forms.TextBox();
             this.lblDMTOwl = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.lblLHOwl = new System.Windows.Forms.Label();
+            this.picDMTOwl = new System.Windows.Forms.PictureBox();
+            this.picLHOwl = new System.Windows.Forms.PictureBox();
+            this.grpWarpSongs = new System.Windows.Forms.GroupBox();
+            this.txtPrelude = new System.Windows.Forms.TextBox();
+            this.txtRequiem = new System.Windows.Forms.TextBox();
+            this.txtNocturne = new System.Windows.Forms.TextBox();
+            this.txtSerenade = new System.Windows.Forms.TextBox();
+            this.txtBolero = new System.Windows.Forms.TextBox();
+            this.txtMinuet = new System.Windows.Forms.TextBox();
+            this.picPrelude = new System.Windows.Forms.PictureBox();
+            this.picRequiem = new System.Windows.Forms.PictureBox();
+            this.picNocturne = new System.Windows.Forms.PictureBox();
+            this.picSerenade = new System.Windows.Forms.PictureBox();
+            this.picBolero = new System.Windows.Forms.PictureBox();
+            this.picMinuet = new System.Windows.Forms.PictureBox();
             this.tclMain.SuspendLayout();
             this.tpgWarps.SuspendLayout();
-            this.grpWarpSongs.SuspendLayout();
-            this.grpOwl.SuspendLayout();
             this.grpSpawns.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picMinuet)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBolero)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picSerenade)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picNocturne)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picRequiem)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picPrelude)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picLHOwl)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picAdult)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picChild)).BeginInit();
+            this.grpOwl.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picDMTOwl)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLHOwl)).BeginInit();
+            this.grpWarpSongs.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picPrelude)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picRequiem)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picNocturne)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picSerenade)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBolero)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picMinuet)).BeginInit();
             this.SuspendLayout();
             // 
             // tclMain
@@ -143,14 +143,126 @@
             this.tpgWarps.Text = "Warps";
             this.tpgWarps.UseVisualStyleBackColor = true;
             // 
+            // grpSpawns
+            // 
+            this.grpSpawns.Controls.Add(this.txtAdult);
+            this.grpSpawns.Controls.Add(this.txtChild);
+            this.grpSpawns.Controls.Add(this.picAdult);
+            this.grpSpawns.Controls.Add(this.picChild);
+            this.grpSpawns.Location = new System.Drawing.Point(24, 484);
+            this.grpSpawns.Name = "grpSpawns";
+            this.grpSpawns.Size = new System.Drawing.Size(609, 194);
+            this.grpSpawns.TabIndex = 2;
+            this.grpSpawns.TabStop = false;
+            this.grpSpawns.Text = "Spawns";
+            // 
+            // txtAdult
+            // 
+            this.txtAdult.Location = new System.Drawing.Point(65, 136);
+            this.txtAdult.Name = "txtAdult";
+            this.txtAdult.Size = new System.Drawing.Size(273, 20);
+            this.txtAdult.TabIndex = 15;
+            // 
+            // txtChild
+            // 
+            this.txtChild.Location = new System.Drawing.Point(65, 36);
+            this.txtChild.Name = "txtChild";
+            this.txtChild.Size = new System.Drawing.Size(273, 20);
+            this.txtChild.TabIndex = 14;
+            // 
+            // picAdult
+            // 
+            this.picAdult.Image = ((System.Drawing.Image)(resources.GetObject("picAdult.Image")));
+            this.picAdult.Location = new System.Drawing.Point(6, 136);
+            this.picAdult.Name = "picAdult";
+            this.picAdult.Size = new System.Drawing.Size(29, 34);
+            this.picAdult.TabIndex = 1;
+            this.picAdult.TabStop = false;
+            // 
+            // picChild
+            // 
+            this.picChild.Image = ((System.Drawing.Image)(resources.GetObject("picChild.Image")));
+            this.picChild.Location = new System.Drawing.Point(6, 36);
+            this.picChild.Name = "picChild";
+            this.picChild.Size = new System.Drawing.Size(29, 34);
+            this.picChild.TabIndex = 0;
+            this.picChild.TabStop = false;
+            // 
+            // grpOwl
+            // 
+            this.grpOwl.Controls.Add(this.txtDMTOwl);
+            this.grpOwl.Controls.Add(this.txtLHOwl);
+            this.grpOwl.Controls.Add(this.lblDMTOwl);
+            this.grpOwl.Controls.Add(this.lblLHOwl);
+            this.grpOwl.Controls.Add(this.picDMTOwl);
+            this.grpOwl.Controls.Add(this.picLHOwl);
+            this.grpOwl.Location = new System.Drawing.Point(672, 29);
+            this.grpOwl.Name = "grpOwl";
+            this.grpOwl.Size = new System.Drawing.Size(572, 397);
+            this.grpOwl.TabIndex = 1;
+            this.grpOwl.TabStop = false;
+            this.grpOwl.Text = "Owls";
+            // 
+            // txtDMTOwl
+            // 
+            this.txtDMTOwl.Location = new System.Drawing.Point(19, 260);
+            this.txtDMTOwl.Name = "txtDMTOwl";
+            this.txtDMTOwl.Size = new System.Drawing.Size(273, 20);
+            this.txtDMTOwl.TabIndex = 13;
+            // 
+            // txtLHOwl
+            // 
+            this.txtLHOwl.Location = new System.Drawing.Point(19, 75);
+            this.txtLHOwl.Name = "txtLHOwl";
+            this.txtLHOwl.Size = new System.Drawing.Size(273, 20);
+            this.txtLHOwl.TabIndex = 12;
+            // 
+            // lblDMTOwl
+            // 
+            this.lblDMTOwl.AutoSize = true;
+            this.lblDMTOwl.Font = new System.Drawing.Font("Impact", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDMTOwl.Location = new System.Drawing.Point(70, 196);
+            this.lblDMTOwl.Name = "lblDMTOwl";
+            this.lblDMTOwl.Size = new System.Drawing.Size(250, 23);
+            this.lblDMTOwl.TabIndex = 4;
+            this.lblDMTOwl.Text = "Death Mountain Trail Owl Warp";
+            // 
+            // lblLHOwl
+            // 
+            this.lblLHOwl.AutoSize = true;
+            this.lblLHOwl.Font = new System.Drawing.Font("Impact", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLHOwl.Location = new System.Drawing.Point(70, 19);
+            this.lblLHOwl.Name = "lblLHOwl";
+            this.lblLHOwl.Size = new System.Drawing.Size(165, 23);
+            this.lblLHOwl.TabIndex = 3;
+            this.lblLHOwl.Text = "Lake Hylia Owl Warp";
+            // 
+            // picDMTOwl
+            // 
+            this.picDMTOwl.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picDMTOwl.BackgroundImage")));
+            this.picDMTOwl.Location = new System.Drawing.Point(19, 196);
+            this.picDMTOwl.Name = "picDMTOwl";
+            this.picDMTOwl.Size = new System.Drawing.Size(29, 37);
+            this.picDMTOwl.TabIndex = 2;
+            this.picDMTOwl.TabStop = false;
+            // 
+            // picLHOwl
+            // 
+            this.picLHOwl.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picLHOwl.BackgroundImage")));
+            this.picLHOwl.Location = new System.Drawing.Point(19, 19);
+            this.picLHOwl.Name = "picLHOwl";
+            this.picLHOwl.Size = new System.Drawing.Size(29, 37);
+            this.picLHOwl.TabIndex = 1;
+            this.picLHOwl.TabStop = false;
+            // 
             // grpWarpSongs
             // 
-            this.grpWarpSongs.Controls.Add(this.textBox6);
-            this.grpWarpSongs.Controls.Add(this.textBox5);
-            this.grpWarpSongs.Controls.Add(this.textBox4);
-            this.grpWarpSongs.Controls.Add(this.textBox3);
-            this.grpWarpSongs.Controls.Add(this.textBox2);
-            this.grpWarpSongs.Controls.Add(this.textBox1);
+            this.grpWarpSongs.Controls.Add(this.txtPrelude);
+            this.grpWarpSongs.Controls.Add(this.txtRequiem);
+            this.grpWarpSongs.Controls.Add(this.txtNocturne);
+            this.grpWarpSongs.Controls.Add(this.txtSerenade);
+            this.grpWarpSongs.Controls.Add(this.txtBolero);
+            this.grpWarpSongs.Controls.Add(this.txtMinuet);
             this.grpWarpSongs.Controls.Add(this.picPrelude);
             this.grpWarpSongs.Controls.Add(this.picRequiem);
             this.grpWarpSongs.Controls.Add(this.picNocturne);
@@ -164,78 +276,47 @@
             this.grpWarpSongs.TabStop = false;
             this.grpWarpSongs.Text = "Warp Songs";
             // 
-            // grpOwl
+            // txtPrelude
             // 
-            this.grpOwl.Controls.Add(this.textBox8);
-            this.grpOwl.Controls.Add(this.textBox7);
-            this.grpOwl.Controls.Add(this.lblDMTOwl);
-            this.grpOwl.Controls.Add(this.lblLHOwl);
-            this.grpOwl.Controls.Add(this.picDMTOwl);
-            this.grpOwl.Controls.Add(this.picLHOwl);
-            this.grpOwl.Location = new System.Drawing.Point(672, 29);
-            this.grpOwl.Name = "grpOwl";
-            this.grpOwl.Size = new System.Drawing.Size(572, 397);
-            this.grpOwl.TabIndex = 1;
-            this.grpOwl.TabStop = false;
-            this.grpOwl.Text = "Owls";
+            this.txtPrelude.Location = new System.Drawing.Point(65, 332);
+            this.txtPrelude.Name = "txtPrelude";
+            this.txtPrelude.Size = new System.Drawing.Size(273, 20);
+            this.txtPrelude.TabIndex = 11;
             // 
-            // grpSpawns
+            // txtRequiem
             // 
-            this.grpSpawns.Controls.Add(this.textBox10);
-            this.grpSpawns.Controls.Add(this.textBox9);
-            this.grpSpawns.Controls.Add(this.pictureBox2);
-            this.grpSpawns.Controls.Add(this.pictureBox1);
-            this.grpSpawns.Location = new System.Drawing.Point(24, 484);
-            this.grpSpawns.Name = "grpSpawns";
-            this.grpSpawns.Size = new System.Drawing.Size(609, 194);
-            this.grpSpawns.TabIndex = 2;
-            this.grpSpawns.TabStop = false;
-            this.grpSpawns.Text = "Spawns";
+            this.txtRequiem.Location = new System.Drawing.Point(65, 260);
+            this.txtRequiem.Name = "txtRequiem";
+            this.txtRequiem.Size = new System.Drawing.Size(273, 20);
+            this.txtRequiem.TabIndex = 10;
             // 
-            // picMinuet
+            // txtNocturne
             // 
-            this.picMinuet.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picMinuet.BackgroundImage")));
-            this.picMinuet.Location = new System.Drawing.Point(6, 19);
-            this.picMinuet.Name = "picMinuet";
-            this.picMinuet.Size = new System.Drawing.Size(29, 37);
-            this.picMinuet.TabIndex = 0;
-            this.picMinuet.TabStop = false;
+            this.txtNocturne.Location = new System.Drawing.Point(65, 196);
+            this.txtNocturne.Name = "txtNocturne";
+            this.txtNocturne.Size = new System.Drawing.Size(273, 20);
+            this.txtNocturne.TabIndex = 9;
             // 
-            // picBolero
+            // txtSerenade
             // 
-            this.picBolero.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picBolero.BackgroundImage")));
-            this.picBolero.Location = new System.Drawing.Point(6, 75);
-            this.picBolero.Name = "picBolero";
-            this.picBolero.Size = new System.Drawing.Size(29, 37);
-            this.picBolero.TabIndex = 1;
-            this.picBolero.TabStop = false;
+            this.txtSerenade.Location = new System.Drawing.Point(65, 135);
+            this.txtSerenade.Name = "txtSerenade";
+            this.txtSerenade.Size = new System.Drawing.Size(273, 20);
+            this.txtSerenade.TabIndex = 8;
             // 
-            // picSerenade
+            // txtBolero
             // 
-            this.picSerenade.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picSerenade.BackgroundImage")));
-            this.picSerenade.Location = new System.Drawing.Point(6, 135);
-            this.picSerenade.Name = "picSerenade";
-            this.picSerenade.Size = new System.Drawing.Size(29, 37);
-            this.picSerenade.TabIndex = 2;
-            this.picSerenade.TabStop = false;
+            this.txtBolero.Location = new System.Drawing.Point(65, 75);
+            this.txtBolero.Name = "txtBolero";
+            this.txtBolero.Size = new System.Drawing.Size(273, 20);
+            this.txtBolero.TabIndex = 7;
             // 
-            // picNocturne
+            // txtMinuet
             // 
-            this.picNocturne.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picNocturne.BackgroundImage")));
-            this.picNocturne.Location = new System.Drawing.Point(6, 196);
-            this.picNocturne.Name = "picNocturne";
-            this.picNocturne.Size = new System.Drawing.Size(29, 37);
-            this.picNocturne.TabIndex = 3;
-            this.picNocturne.TabStop = false;
-            // 
-            // picRequiem
-            // 
-            this.picRequiem.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picRequiem.BackgroundImage")));
-            this.picRequiem.Location = new System.Drawing.Point(6, 260);
-            this.picRequiem.Name = "picRequiem";
-            this.picRequiem.Size = new System.Drawing.Size(29, 37);
-            this.picRequiem.TabIndex = 4;
-            this.picRequiem.TabStop = false;
+            this.txtMinuet.Location = new System.Drawing.Point(65, 22);
+            this.txtMinuet.Name = "txtMinuet";
+            this.txtMinuet.Size = new System.Drawing.Size(273, 20);
+            this.txtMinuet.TabIndex = 6;
             // 
             // picPrelude
             // 
@@ -246,131 +327,50 @@
             this.picPrelude.TabIndex = 5;
             this.picPrelude.TabStop = false;
             // 
-            // picLHOwl
+            // picRequiem
             // 
-            this.picLHOwl.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picLHOwl.BackgroundImage")));
-            this.picLHOwl.Location = new System.Drawing.Point(19, 19);
-            this.picLHOwl.Name = "picLHOwl";
-            this.picLHOwl.Size = new System.Drawing.Size(29, 37);
-            this.picLHOwl.TabIndex = 1;
-            this.picLHOwl.TabStop = false;
+            this.picRequiem.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picRequiem.BackgroundImage")));
+            this.picRequiem.Location = new System.Drawing.Point(6, 260);
+            this.picRequiem.Name = "picRequiem";
+            this.picRequiem.Size = new System.Drawing.Size(29, 37);
+            this.picRequiem.TabIndex = 4;
+            this.picRequiem.TabStop = false;
             // 
-            // picDMTOwl
+            // picNocturne
             // 
-            this.picDMTOwl.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picDMTOwl.BackgroundImage")));
-            this.picDMTOwl.Location = new System.Drawing.Point(19, 196);
-            this.picDMTOwl.Name = "picDMTOwl";
-            this.picDMTOwl.Size = new System.Drawing.Size(29, 37);
-            this.picDMTOwl.TabIndex = 2;
-            this.picDMTOwl.TabStop = false;
+            this.picNocturne.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picNocturne.BackgroundImage")));
+            this.picNocturne.Location = new System.Drawing.Point(6, 196);
+            this.picNocturne.Name = "picNocturne";
+            this.picNocturne.Size = new System.Drawing.Size(29, 37);
+            this.picNocturne.TabIndex = 3;
+            this.picNocturne.TabStop = false;
             // 
-            // lblLHOwl
+            // picSerenade
             // 
-            this.lblLHOwl.AutoSize = true;
-            this.lblLHOwl.Font = new System.Drawing.Font("Impact", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblLHOwl.Location = new System.Drawing.Point(70, 19);
-            this.lblLHOwl.Name = "lblLHOwl";
-            this.lblLHOwl.Size = new System.Drawing.Size(165, 23);
-            this.lblLHOwl.TabIndex = 3;
-            this.lblLHOwl.Text = "Lake Hylia Owl Warp";
+            this.picSerenade.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picSerenade.BackgroundImage")));
+            this.picSerenade.Location = new System.Drawing.Point(6, 135);
+            this.picSerenade.Name = "picSerenade";
+            this.picSerenade.Size = new System.Drawing.Size(29, 37);
+            this.picSerenade.TabIndex = 2;
+            this.picSerenade.TabStop = false;
             // 
-            // lblDMTOwl
+            // picBolero
             // 
-            this.lblDMTOwl.AutoSize = true;
-            this.lblDMTOwl.Font = new System.Drawing.Font("Impact", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDMTOwl.Location = new System.Drawing.Point(70, 196);
-            this.lblDMTOwl.Name = "lblDMTOwl";
-            this.lblDMTOwl.Size = new System.Drawing.Size(250, 23);
-            this.lblDMTOwl.TabIndex = 4;
-            this.lblDMTOwl.Text = "Death Mountain Trail Owl Warp";
+            this.picBolero.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picBolero.BackgroundImage")));
+            this.picBolero.Location = new System.Drawing.Point(6, 75);
+            this.picBolero.Name = "picBolero";
+            this.picBolero.Size = new System.Drawing.Size(29, 37);
+            this.picBolero.TabIndex = 1;
+            this.picBolero.TabStop = false;
             // 
-            // pictureBox1
+            // picMinuet
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(6, 36);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(29, 34);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(6, 136);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(29, 34);
-            this.pictureBox2.TabIndex = 1;
-            this.pictureBox2.TabStop = false;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(65, 22);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(273, 20);
-            this.textBox1.TabIndex = 6;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(65, 75);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(273, 20);
-            this.textBox2.TabIndex = 7;
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(65, 135);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(273, 20);
-            this.textBox3.TabIndex = 8;
-            // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(65, 196);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(273, 20);
-            this.textBox4.TabIndex = 9;
-            // 
-            // textBox5
-            // 
-            this.textBox5.Location = new System.Drawing.Point(65, 260);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(273, 20);
-            this.textBox5.TabIndex = 10;
-            // 
-            // textBox6
-            // 
-            this.textBox6.Location = new System.Drawing.Point(65, 332);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(273, 20);
-            this.textBox6.TabIndex = 11;
-            // 
-            // textBox7
-            // 
-            this.textBox7.Location = new System.Drawing.Point(19, 75);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(273, 20);
-            this.textBox7.TabIndex = 12;
-            // 
-            // textBox8
-            // 
-            this.textBox8.Location = new System.Drawing.Point(19, 260);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(273, 20);
-            this.textBox8.TabIndex = 13;
-            // 
-            // textBox9
-            // 
-            this.textBox9.Location = new System.Drawing.Point(65, 36);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(273, 20);
-            this.textBox9.TabIndex = 14;
-            // 
-            // textBox10
-            // 
-            this.textBox10.Location = new System.Drawing.Point(65, 136);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(273, 20);
-            this.textBox10.TabIndex = 15;
+            this.picMinuet.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picMinuet.BackgroundImage")));
+            this.picMinuet.Location = new System.Drawing.Point(6, 19);
+            this.picMinuet.Name = "picMinuet";
+            this.picMinuet.Size = new System.Drawing.Size(29, 37);
+            this.picMinuet.TabIndex = 0;
+            this.picMinuet.TabStop = false;
             // 
             // frmMain
             // 
@@ -383,22 +383,22 @@
             this.Text = "Harrold ZOOTR Random Settings Tracker";
             this.tclMain.ResumeLayout(false);
             this.tpgWarps.ResumeLayout(false);
-            this.grpWarpSongs.ResumeLayout(false);
-            this.grpWarpSongs.PerformLayout();
-            this.grpOwl.ResumeLayout(false);
-            this.grpOwl.PerformLayout();
             this.grpSpawns.ResumeLayout(false);
             this.grpSpawns.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picMinuet)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBolero)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picSerenade)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picNocturne)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picRequiem)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picPrelude)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picLHOwl)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picAdult)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picChild)).EndInit();
+            this.grpOwl.ResumeLayout(false);
+            this.grpOwl.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picDMTOwl)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLHOwl)).EndInit();
+            this.grpWarpSongs.ResumeLayout(false);
+            this.grpWarpSongs.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picPrelude)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picRequiem)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picNocturne)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picSerenade)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBolero)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picMinuet)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -412,8 +412,8 @@
         private System.Windows.Forms.TabPage tpgLocations;
         private System.Windows.Forms.TabPage tpgWarps;
         private System.Windows.Forms.GroupBox grpSpawns;
-        private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox picAdult;
+        private System.Windows.Forms.PictureBox picChild;
         private System.Windows.Forms.GroupBox grpOwl;
         private System.Windows.Forms.Label lblDMTOwl;
         private System.Windows.Forms.Label lblLHOwl;
@@ -426,16 +426,16 @@
         private System.Windows.Forms.PictureBox picSerenade;
         private System.Windows.Forms.PictureBox picBolero;
         private System.Windows.Forms.PictureBox picMinuet;
-        private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtAdult;
+        private System.Windows.Forms.TextBox txtChild;
+        private System.Windows.Forms.TextBox txtDMTOwl;
+        private System.Windows.Forms.TextBox txtLHOwl;
+        private System.Windows.Forms.TextBox txtPrelude;
+        private System.Windows.Forms.TextBox txtRequiem;
+        private System.Windows.Forms.TextBox txtNocturne;
+        private System.Windows.Forms.TextBox txtSerenade;
+        private System.Windows.Forms.TextBox txtBolero;
+        private System.Windows.Forms.TextBox txtMinuet;
     }
 }
 
