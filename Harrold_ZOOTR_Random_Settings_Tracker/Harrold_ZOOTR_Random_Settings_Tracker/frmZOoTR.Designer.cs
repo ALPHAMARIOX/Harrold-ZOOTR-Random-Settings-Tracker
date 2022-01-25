@@ -60,6 +60,7 @@
             this.picSerenade = new System.Windows.Forms.PictureBox();
             this.picBolero = new System.Windows.Forms.PictureBox();
             this.picMinuet = new System.Windows.Forms.PictureBox();
+            this.tpgKeys = new System.Windows.Forms.TabPage();
             this.tclMain.SuspendLayout();
             this.tpgWarps.SuspendLayout();
             this.grpSpawns.SuspendLayout();
@@ -84,6 +85,7 @@
             this.tclMain.Controls.Add(this.tpgHints);
             this.tclMain.Controls.Add(this.tpgLocations);
             this.tclMain.Controls.Add(this.tpgWarps);
+            this.tclMain.Controls.Add(this.tpgKeys);
             this.tclMain.Location = new System.Drawing.Point(-1, 30);
             this.tclMain.Name = "tclMain";
             this.tclMain.SelectedIndex = 0;
@@ -372,6 +374,16 @@
             this.picMinuet.TabIndex = 0;
             this.picMinuet.TabStop = false;
             // 
+            // tpgKeys
+            // 
+            this.tpgKeys.Location = new System.Drawing.Point(4, 22);
+            this.tpgKeys.Name = "tpgKeys";
+            this.tpgKeys.Padding = new System.Windows.Forms.Padding(3);
+            this.tpgKeys.Size = new System.Drawing.Size(1268, 729);
+            this.tpgKeys.TabIndex = 5;
+            this.tpgKeys.Text = "Keys";
+            this.tpgKeys.UseVisualStyleBackColor = true;
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -436,6 +448,7 @@
         private System.Windows.Forms.TextBox txtSerenade;
         private System.Windows.Forms.TextBox txtBolero;
         private System.Windows.Forms.TextBox txtMinuet;
+        private System.Windows.Forms.TabPage tpgKeys;
     }
 }
 
