@@ -1,0 +1,324 @@
+{
+    "Kokiri Forest" : {
+        "Mido's House Bottom Left Chest" : "mhblc",
+        "Mido's House Bottom Right Chest" : "mhbrc",
+        "Mido's House Top Left Chest" : "mhtlc",
+        "Mido's House Top Right Chest" : "mhtrc",
+        "Kokiri Forest Storms Grotto Chest" : "kfsgc",
+        "Kokiri Sword Chest" : "ksc"
+    },
+    "Deku Tree" : {
+        "Deku Tree Map Chest" : "dtmc",
+        "Slingshot Chest" : "sc",
+        "Deku Tree Slingshot Room Chest" : "dtsrc",
+        "Deku Tree Compass Chest" : "dtcc",
+        "Deku Tree Compass Room Chest" : "dtcrc",
+        "Deku Tree Basement Chest" : "dtbc",
+        "Queen Gohma Heart" : "qgh"
+    },
+    "Lost Woods" : {
+        "Lost Woods Bridge Stick Scrub": "lwbss",
+        "Skull Kid Piece of Heart" : "skpoh",
+        "Target in the Woods" : "titw",
+        "Ocarina Memory Game" : "omg",
+        "Lost Woods Generic Grotto Chest" : "lwggc",
+        "Lost Woods Scrubs Grotto Front Scrub" : "lwsgfs",
+        "Skull Mask Deku Theater" : "smdt",
+        "Mask of Truth Deku Theater" : "motdt"
+    },
+    "Sacred Forest Meadow" : {
+        "Wolfos Grotto Chest" : "wgc"
+    },
+    "Hyrule Field" : {
+        "Hyrule Field Near Market Grotto Chest" : "hfnmgc",
+        "Tektite Grotto Piece of Heart" : "tgpoh",
+        "Hyrule Field Piece of Heart Scrub" : "hfpohs",
+        "Hyrule Field Open Grotto Chest" : "hfogc",
+        "Hyrule Field Remote Grotto Chest" : "hfrgc"
+    },
+    "Lon Lon Ranch" : {
+        "Talon's Chicken Bottle" : "tcb",
+        "Lon Lon Silo Piece of Heart" : "llspoh"
+    },
+    "Market" : {
+        "Child Shooting Gallery" : "csg",
+        "Richard the Dog" : "rtd",
+        "Bombchu Bowling Prize 1" : "bbp1",
+        "Bombchu Bowling Prize 2" : "bbp2",
+        "Treasure Chest Minigame" : "tcm",
+        "Big Poes Bottle" : "bpb"
+    },
+    "Hyrule Castle" : {
+        "Hyrule Castle Fairy" : "hcf"
+    },
+    "Outside Ganon's Castle" : {
+        "Outside Ganon's Castle Fairy" : "ogcf"
+    },
+    "Lake Hylia" : {
+        "Child Fishing Pond" : "cfp",
+        "Ruto's Letter Dive" : "rld",
+        "Lab Diving Piece of Heart" : "ldpoh",
+        "Top of Lab Piece of Heart" : "tolpoh",
+        "Adult Fishing Pond" : "afp",
+        "Shoot the Sun" : "sts"
+    },
+    "Kakariko" : {
+        "Anju's Chickens Bottle" : "acb",
+        "Man on the Roof" : "motr",
+        "Kakariko Open Grotto Chest" : "kogc",
+        "Kakariko Redead Grotto Chest" : "krgc",
+        "Kakariko Windmill Piece of Heart" : "kwpoh",
+        "Adult Anju Trading Quest" : "aatq",
+        "Impa's Cow Piece of Heart" : "icpoh",
+        "Adult Shooting Gallery" : "asg",
+        "House of Skulltula 10" : "hos10",
+        "House of Skulltula 20" : "hos20",
+        "House of Skulltula 30" : "hos30",
+        "House of Skulltula 40" : "hos40",
+        "House of Skulltula 50" : "hos50"
+    },
+    "Bottom of the Well" : {
+        "Well Left Invisible Wall Chest" : "wliwc",
+        "Well Compass Chest" : "wcc",
+        "Well Center Right Chest" : "wcrc",
+        "Well Bomb Floor Chest" : "wbfc",
+        "Well Bomb Corner Chest" : "wbcc",
+        "Well Near Coffin Underwater Chest" : "wncuc",
+        "Well Near Dead Hand Under Water Chest" : "wndhuwc",
+        "Well Coffin Key" : "wck",
+        "Well Invisible Chest" : "wic",
+        "Lens of Truth Chest" : "lotc",
+        "Well Trap Room Chest" : "wtrc",
+        "Well Like-Like Chest" : "wllc",
+        "Well Basement Map Chest" : "wbmc"
+    },
+    "Graveyard" : {
+        "Shield Grave Chest" : "sgc",
+        "Sun's Song Grave Chest" : "ssgc",
+        "Royal Tomb Flame Chest" : "rtfc",
+        "Graveyard Crate Piece of Heart" : "gcpoh",
+        "Dampe Digging Piece of Heart" : "ddpoh",
+        "Dampe Race Prize 1" : "drp1",
+        "Dampe Race Prize 2" : "drp2"
+    },
+    "Death Mountain Trail" : {
+        "Death Mountain Trail Free Standing Piece of Heart" : "dmtfspoh",
+        "Death Mountain Trail Storms Grotto Chest" : "dmtsgc",
+        "Biggoron Trade Quest" : "btq",
+        "Death Mountain Trail Fairy" : "dmtf"
+    },
+    "Death Mountain Crater" : {
+        "Death Mountain Crater Fairy" : "dmcf",
+        "Death Mountain Crater Generic Grotto Chest" : "dmcggc",
+        "Death Mountain Crater Wall Piece of Heart" : "dmcwpoh",
+        "Volcano Piece of Heart" : "vpoh"
+    },
+    "Goron City" : {
+        "Dancing Darunia" : "dd",
+        "Goron Spinning Pot" : "gsp",
+        "Hotrodder Goron" : "hg",
+        "Medigoron Giant's Knife" : "mgk",
+        "Link the Goron" : "ltg",
+        "Goron City Maze Left Chest" : "gcmlc",
+        "Goron City Maze Middle Chest" : "gcmmc",
+        "Goron City Maze Right Chest" : "gcmrc"
+    },
+    "Dodongo's Cavern" : {
+        "Dodongo's Cavern Map Chest" : "dcmc",
+        "Dodongo's Cavern Compass Chest" : "dccc",
+        "Dodongo's Cavern Spike Trap Chest" : "dcstc",
+        "Bomb Chest" : "bc",
+        "Dodongo's Cavern Top Main Room Chest" : "dctmrc",
+        "Dodongo's Cavern Above King Dodongo Chest" : "dcakdc",
+        "King Dodongo's Heart" : "kdh"
+    },
+    "Zora's River" : {
+        "Bean Seller Beans" : "bsb",
+        "Lower Free Standing Piece of Heart" : "lfspoh",
+        "Zora's River Open Grotto Chest" : "zrogc",
+        "Upper Free Stranding Piece of Heart" : "ufspoh",
+        "Frogs in the Rain" : "fitr",
+        "Frogs Minigame" : "fm"
+    },
+    "Zora's Domain" : {
+        "Torch Run Chest" : "trc",
+        "Zora Diving Minigame" : "zdm",
+        "Unfreezing King Zora" : "ukz"
+    },
+    "Zora's Fountain" : {
+        "Zora's Fountain Fairy" : "zff",
+        "Iceberg Piece of Heart" : "ipoh",
+        "Under the Icy Waters Piece of Heart" : "utiwpoh"
+    },
+    "Jabu Jabu's Belly" : {
+        "Jabu Jabu Map Chest" : "jjmc",
+        "Jabu Jabu Compass Chest" : "jjcc",
+        "Boomerang Chest" : "bc",
+        "Barinade Heart" : "bh"
+    },
+    "Ice Cavern" : {
+        "Ice Cavern Map Chest" : "icmc",
+        "Ice Cavern Compass Chest" : "iccc",
+        "Ice Cavern Piece of Heart" : "icpoh",
+        "Iron Boots Chest" : "ibc"
+    },
+    "Gerudo Valley" : {
+        "Gerudo Valley Crate" : "gvc",
+        "Gerudo Valley Waterfall" : "gvw",
+        "Gerudo Valley Hammer Chest" : "gvhc"
+    },
+    "Gerudo's Fortress" : {
+        "Gerudo Fortress Roof Chest" : "gfrc",
+        "Horse Back Archery Prize 1" : "hbap1",
+        "Horse Back Archery Prize 2" : "hbap2",
+        "Gerudo Fortress Freestanding Piece of Heart" : "gffpoh"
+    },
+    "Gerudo Training Ground" : {
+        "Lobby Target Left Chest" : "ltlc",
+        "Lobby Target Right Chest" : "ltrc",
+        "Gerudo Stalfos Chest" : "gsc",
+        "Gerudo Wolfos Chest" : "gwc",
+        "Gerudo Like-Like Room Back Chest" : "gllrbc",
+        "Gerudo Like-Like Room Invisible Chest" : "gllric",
+        "Gerudo Like-Like Room Second Chest" : "gllrsc",
+        "Gerudo Like-Like Room Front Chest" : "gllrfc",
+        "Gerudo Eye Statue Chest" : "gesc",
+        "Gerudo Pierre Chest" : "gpc",
+        "Gerudo Fire Room Chest" : "gfrc",
+        "Gerudo Fire Room Fire Chest" : "gfrfc",
+        "Gerudo Lava Room Free Standing Key" : "glrfsk",
+        "Gerudo Toilet Chest" : "gtc",
+        "Gerudo Beamos Chest" : "gbc",
+        "Gerudo Maze Back Left Chest" : "gmblc",
+        "Gerudo Maze Back Right Chest" : "gmbrc",
+        "Gerudo Maze Hidden Chest" : "gmhc",
+        "Gerudo Maze 4 Key Chest" : "gm4kc",
+        "Gerudo Maze 6 Key Chest" : "gm6kc",
+        "Gerudo Maze 7 Key Chest" : "gm7kc",
+        "Ice Arrows Chest" : "iac"
+    },
+    "Haunted Wasteland" : {
+        "Carpet Salesman Bombchus" : "csb",
+        "Haunted Wasteland Chest" : "hwc"
+    },
+    "Desert Colossus" : {
+        "Desert Colossus Fairy" : "dcf",
+        "Desert Colossus Free Standing Piece of Heart" : "dcfspoh"
+    },
+    "Forest Temple" : {
+        "Forest Entrance Tree Chest" : "fetc",
+        "Forest Stalfos Chest" : "fsc",
+        "Forest Island Chest" : "fic",
+        "Forest Map Chest" : "fmc",
+        "Forest Well Chest" : "fwc",
+        "Forest Target Chest" : "ftc",
+        "Forest Floormaster Chest" : "ffc",
+        "Forest Big Key Chest" : "fbkc",
+        "Forest Red Poe Chest" : "frpc",
+        "Bow Chest" : "bc", 
+        "Forest Compass Chest" : "fcc",
+        "Forest Falling Floor Chest" : "fffc",
+        "Forest Basement Chest" : "fbc",
+        "Phantom Ganon Heart" : "pgh"
+    },
+    "Fire Temple" : {
+        "Fire Near Boss Chest" : "fnbc",
+        "Fire Flare Dancer Chest" : "ffdc",
+        "Fire Big Key Chest" : "fbkc",
+        "Fire Lava Room Chest" : "flrc",
+        "Fire Lava Room Bombable Wall Chest" : "flrbwc",
+        "Fire Shortcut Chest" : "fsc",
+        "Fire Lower Maze Chest" : "flmc",
+        "Fire Lower Maze Room Chest" : "flmrc",
+        "Fire Map Chest" : "fmc",
+        "Fire Upper Maze Chest" : "fumc",
+        "Fire Pierre Chest" : "fpc",
+        "Fire Compass Chest" : "fcc",
+        "Hammer Chest" : "hc",
+        "Fire Highest Goron Chest" : "fhgc",
+        "Volvagia Heart" : "vh"
+    },
+    "Water Temple" : {
+        "Water Map Chest" : "wmc",
+        "Water Shellblade Chest" : "wsc",
+        "Water Bombable Wall Chest" : "wbwc",
+        "Water Big Key Chest" : "wbkc",
+        "Water Dragon Chest" : "wdc",
+        "Water Block Push Chest" : "wbpc",
+        "Water Central Pillar Chest" : "wcpc",
+        "Water Compass Chest" : "wcc",
+        "Longshot Chest" : "lc",
+        "Water River Chest" : "wrc",
+        "Morpha Heart" : "mh"
+    },
+    "Shadow Temple" : {
+        "Shadow Map Chest" : "smc",
+        "Hover Boots Chest" : "hbc",
+        "Shadow Compass Chest" : "scc",
+        "Shadow Scythe Chest" : "ssc",
+        "Shadow Invisible Scythe Chest" : "sisc",
+        "Shadow Invisible Scythe Invisible Chest" : "sisic",
+        "Shadow Crusher Lower Chest" : "sclc",
+        "Shadow Crusher Upper Chest" : "scuc",
+        "Shadow Crusher Switch Chest" : "scsc",
+        "Shadow Invisible Spike Room Chest" : "sisrc",
+        "Shadow Pot Key" : "spk",
+        "Shadow Past Wind Room Chest" : "spwrc",
+        "Shadow Gibdo Room Invisible Chest" : "sgric",
+        "Shadow Gibdo Room Chest" : "sgrc",
+        "Shadow Big Key Chest" : "sbkc",
+        "Shadow Trap Chest" : "stc",
+        "Shadow Manager Chest" : "smc",
+        "Bongo Bongo Heart" : "bbh"
+    },
+    "Spirit Temple" : {
+        "Spirit Child Stalfos Chest" : "scsc",
+        "Spirit Child Keese Chest" : "sckc",
+        "Spirit Child Climb Near Climb Chest" : "sccncc",
+        "Spirit Child Climb Near Door Chest" : "sccndc",
+        "Spirit Map Chest" : "smc",
+        "Spirit Sun Block Chest" : "ssbc",
+        "Silver Gauntlets Chest" : "sgc",
+        "Spirit Compass Chest" : "scc",
+        "Spirit Boulder Chest" : "sbc",
+        "Spirit Adult Climb First Sun Chest" : "sacfsc",
+        "Spirit Adult Climb Second Sun Chest" : "sacssc",
+        "Spirit Center Room Hand Chest" : "scrhc",
+        "Spirit Center Room Top Chest" : "scrtc",
+        "Spirit Mirror Room Chest" : "smrc",
+        "Spirit Invisible Left Chest" : "silc",
+        "Spirit Invisible Right Chest" : "sirc",
+        "Mirror Shield Chest" : "msc",
+        "Spirit Boss Key Chest" : "sbkc",
+        "Spirit Top Chest" : "stc",
+        "Twinrova Heart" : "th"
+    },
+    "Ganon's Castle" : {
+        "Forest Trial Chest" : "ftc",
+        "Water Trial Left Chest" : "wtlc",
+        "Water Trial Right Chest" : "wtrc",
+        "Shadow Trial Near Entrance Chest" : "stnec",
+        "Golden Gauntlets Chest" : "ggc",
+        "Light Trial Bottom Left Chest" : "ltblc",
+        "Light Trial Middle Left Chest" : "ltmlc",
+        "Light Trial Top Left Chest" : "lttlc",
+        "Light Trial Bottom Right Chest" : "ltbrc",
+        "Light Trial Middle Right Chest" : "ltmrc",
+        "Light Trial Top Right Chest" : "lttrc",
+        "Light Trial Middle Chest" : "ltmc",
+        "Light Trial Second Room Chest" : "ltsrc",
+        "Spirit Trial Switch Chest" : "stsc",
+        "Spirit Trial Invisible Chest" : "stic",
+        "Ganon's Castle Boss Key Chest" : "gcbkc"
+    },
+    "Non Standard" : {
+        "Hyrule Castle Weird Egg" : "hcwe",
+        "Lost Woods Ocarina" : "lwc",
+        "Hyrule Field Ocarina of Time" : "hfoot",
+        "Thieve's Hideout Key 1" : "thk1",
+        "Thieve's Hideout Key 2" : "thk2",
+        "Thieve's Hideout Key 3" : "thk3",
+        "Thieve's Hideout Key 4" : "thk4",
+        "Thieve's Hideout Gerudo Card" : "ghgc"
+    }
+}

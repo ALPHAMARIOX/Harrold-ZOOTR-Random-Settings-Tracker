@@ -1,0 +1,164 @@
+{
+    "Kokiri Forest" : {
+        "Kokiri Know-it-All House" : "kkiah",
+        "Kokiri Soil Patch" : "ksp",
+        "Kokiri Twins House" : "kth"
+    },
+    "Deku Tree" : {
+        "Deku Compass Skull" : "dcs",
+        "Deku Vine Skull" : "dvs",
+        "Deku Drain Skull" : "dds",
+        "Deku Back Room Skull" : "dbrs"
+    },
+    "Lost Woods" : {
+        "Lost Woods Soil Bridge" : "lwsb",
+        "Lost Woods Soil Theater" : "lwst",
+        "Lost Woods Theater" : "lwt"
+    },
+    "Sacred Forest Meadow" : {
+        "Sacred Forest Meadow Skull" : "sfms"
+    },
+    "Hyrule Field" : {
+        "Hyrule Field Gerudo Grotto Skull" : "hfggs",
+        "Hyrule Field Kakariko Grotto Skull" : "hfkgs"
+    },
+    "Market" : {
+        "Guard House Skull" : "ghs"
+    },
+    "Hyrule Castle" : {
+        "Castle Tree Skull" : "cts",
+        "Castle Storms Grotto Skull" : "csgs"
+    },
+    "Outside Ganon's Castle" : {
+        "Outside Ganon's Castle Wall Skull" : "ogcws"
+    },
+    "Lon Lon Ranch" : {
+        "Ranch Tree Skull" : "rts",
+        "Ranch Fence Skull" : "rfs",
+        "Ranch House Skull" : "rhs",
+        "Ranch Wall Skull" : "rws"
+    },
+    "Lake Hylia" : {
+        "Lake Soil Skull" : "lss",
+        "Lake Lab Wall Skull" : "llws",
+        "Lake Shoot the Sun Skull" : "lstss",
+        "Lake Lab Skull" : "lls",
+        "Lake Tree Skull" : "lts"
+    },
+    "Kakariko" : {
+        "Kakariko Adult Shooting Skull" : "kass",
+        "Kakariko House of Skulltula Skull" : "khuss",
+        "Kakariko Tree Skull" : "kts",
+        "Kakariko Bazaar Skull" : "kbs",
+        "Kakariko Watch Tower Skull" : "kwts",
+        "Kakariko Above Impa's House Skull" : "kaihs"
+    },
+    "Bottom of the Well" : {
+        "Well Deku Baba Skull" : "wdbs",
+        "Well Trap Room Skull" : "wtrs",
+        "Well Like-Like Skull" : "wlls"
+    },
+    "Graveyard" : {
+        "Graveyard Wall Skull" : "gws",
+        "Graveyard Soil Skull" : "gss"
+    },
+    "Death Mountain Trail" : {
+        "Death Mountain Trail Mud Wall Skull" : "dmtmws",
+        "Death Mountain Trail Soil Skull" : "dmtss",
+        "Death Mountain Trail Near Dodongo's Cavern" : "dmtndc",
+        "Death Mountain Trail Volcano Trail" : "dmtvt"
+    },
+    "Goron City" : {
+        "Goron City Maze Crate Skull" : "gcmcs",
+        "Goron City Platform Skull" : "gcps"
+    },
+    "Death Mountain Crater" : {
+        "Death Mountain Crater Crate Skull" : "dmccs",
+        "Death Mountain Crater Soil Skull" : "dmcss"
+    },
+    "Dodongo's Cavern" : {
+        "Dodongo's Cavern Scarecrow Hallway Skull" : "dcshs",
+        "Dodongo's Cavern Scarecrow Hallway Sideroom Skull" : "dcshss",
+        "Dodongo's Cavern Stairway Alcove Skull" : "dcsas",
+        "Dodongo's Cavern Stairway Vine Skull" : "dcsvs",
+        "Dodongo's Cavern Back Room Skull" : "dcbrs"
+    },
+    "Zora's River" : {
+        "Zora's River Tree Skull" : "zrts",
+        "Zora's River Ladder Skull" : "zrls",
+        "Zora's River Near Grotto Skull" : "zrngs",
+        "Zora's River After Bridge Skull" : "zrabs"
+    },
+    "Zora's Domain" : {
+        "Zora's Domain Skull" : "zds"
+    },
+    "Zora's Fountain" : {
+        "Zora's Fountain Tree Skull" : "zfts",
+        "Zora's Fountain Wall Skull" : "zfws",
+        "Zora's Fountain Near Fairy Skull" : "zfnfs"
+    },
+    "Jabu Jabu's Belly" : {
+        "Jabu Climbable Wall Skull" : "jcws",
+        "Jabu Main Close To Octo Skull" : "jmctos",
+        "Jabu Main Far From Octo Skull" : "jmffos",
+        "Jabu Near Boss Skull" : "jnbs"
+    },
+    "Ice Cavern" : {
+        "Ice Spinning Blade Room" : "isbr",
+        "Ice Compass Room" : "icr",
+        "Ice Block Push Room" : "ibpr"
+    },
+    "Gerudo Valley" : {
+        "Gerudo Valley Waterfall Skull" : "gvws",
+        "Gerudo Valley Soil Skull" : "gvss",
+        "Gerudo Valley Pillar Skull" : "gvps",
+        "Gerudo Valley Tent Skull" : "gvts"
+    },
+    "Gerudo's Fortress" : {
+        "Gerudo Fortress Wall Skull" : "gfws",
+        "Gerudo Fortress Target Skull" : "gfts"
+    },
+    "Haunted Wasteland" : {
+        "Haunted Wasteland Skull" : "hws"
+    },
+    "Desert Colossus" : {
+        "Desert Colossus Soil Skull" : "dcss",
+        "Desert Colossus Tree Skull" : "dcts",
+        "Desert Colossus Near Fairy Skull" : "dcnfs"
+    },
+    "Forest Temple" : {
+        "Forest Vine Skull" : "fvs",
+        "Forest Main Room Skull" : "fmrs",
+        "Forest Island Skull" : "fis",
+        "Forest Courtyard Pillar Skull" : "fcps",
+        "Forest Basement Skull" : "fbs"
+    },
+    "Fire Temple" : {
+        "Fire Song of Time Skull" : "fsots",
+        "Fire Hammer Skull" : "fhs",
+        "Fire Bombable Wall Skull" : "fbws",
+        "Fire Pierre Climb Skull" : "fpcs",
+        "Fire Pierre Wall Skull" : "fpws"
+    },
+    "Water Temple" : {
+        "Water Basement Back Skull" : "wbbs",
+        "Water Waterfall Near Boss Key Skull" : "wwnbks",
+        "Water Central Pillar Skull" : "wcps",
+        "Water River Skull" : "wrs",
+        "Water Target Climb Room Skull" : "wtcrs"
+    },
+    "Shadow Temple" : {
+        "Shadow Invisible Spinner Skull" : "siss",
+        "Shadow Crusher Room Skull" : "scrs",
+        "Shadow Pot Room Skull" : "sprs",
+        "Shadow Scarecrow Skull" : "sss",
+        "Shadow Triple Pot Room Skull" : "stprs"
+    },
+    "Spirit Temple" : {
+        "Spirit Child Side Room" : "scss",
+        "Spirit Child Climb Room" : "sccr",
+        "Spirit Adult Song of Time Skull" : "sasots",
+        "Spirit Near Iron Knuckle Skull" : "sniks",
+        "Spirit Main Room Skull" : "smrs"
+    }
+}

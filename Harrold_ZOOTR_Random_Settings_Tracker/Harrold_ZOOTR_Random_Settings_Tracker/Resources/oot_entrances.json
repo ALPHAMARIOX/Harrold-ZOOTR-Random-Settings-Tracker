@@ -152,9 +152,9 @@
     },
     "extra overworld" : {
         "Gerudo Valley Lake Hylia" : "gvlh",
-        "Lake Hylia Gerudo Valley River" : "lhgvr",
+        "Lake Hylia Gerudo Valley River" : "lhgvr"
     },
-    "dungeon" {
+    "dungeon" : {
         "Kokiri Forest Deku Tree" : "kfdt",
         "Death Mountain Trail Dodongo's Cavern" : "dmtdc",
         "Zora's Fountain Jabu Jabu's Belly" : "zfjj",

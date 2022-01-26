@@ -1,0 +1,82 @@
+{
+    "Kokiri Shop" : {
+        "Kokiri Shop Top Left Item 1" : "kstli1",
+        "Kokiri Shop Top Left Item 2" : "kstli2",
+        "Kokiri Shop Bottom Left Item 1" : "ksbli1",
+        "Kokiri Shop Bottom Left Item 2" : "ksbli2",
+        "Kokiri Shop Top Right Item 1" : "kstri1",
+        "Kokiri Shop Top Right Item 2" : "kstri2",
+        "Kokiri Shop Bottom Right Item 1" : "ksbri1",
+        "Kokiri Shop Bottom Right Item 2" : "ksbri2"
+    },
+    "Market Potion Shop" : {
+        "Market Potion Shop Top Left Item 1" : "mpstli1",
+        "Market Potion Shop Top Left Item 2" : "mpstli2",
+        "Market Potion Shop Bottom Left Item 1" : "mpsbli1",
+        "Market Potion Shop Bottom Left Item 2" : "mpsbli2",
+        "Market Potion Shop Top Right Item 1" : "mpstri1",
+        "Market Potion Shop Top Right Item 2" : "mpstri2",
+        "Market Potion Shop Bottom Right Item 1" : "mpsbri1",
+        "Market Potion Shop Bottom Right Item 2" : "mpsbri2"
+    },
+    "Market Bazaar" : {
+        "Market Bazaar Shop Top Left Item 1" : "mbstli1",
+        "Market Bazaar Shop Top Left Item 2" : "mbstli2",
+        "Market Bazaar Shop Bottom Left Item 1" : "mbsbli1",
+        "Market Bazaar Shop Bottom Left Item 2" : "mbsbli2",
+        "Market Bazaar Shop Top Right Item 1" : "mbstri1",
+        "Market Bazaar Shop Top Right Item 2" : "mbstri2",
+        "Market Bazaar Shop Bottom Right Item 1" : "mbsbri1",
+        "Market Bazaar Shop Bottom Right Item 2" : "mbsbri2"
+    },
+    "Bombchu Shop" : {
+        "Bombchu Shop Top Left Item 1" : "bstli1",
+        "Bombchu Shop Top Left Item 2" : "kstli2",
+        "Bombchu Shop Bottom Left Item 1" : "bsbli1",
+        "Bombchu Shop Bottom Left Item 2" : "bsbli2",
+        "Bombchu Shop Top Right Item 1" : "bstri1",
+        "Bombchu Shop Top Right Item 2" : "bstri2",
+        "Bombchu Shop Bottom Right Item 1" : "bsbri1",
+        "Bombchu Shop Bottom Right Item 2" : "bsbri2"
+    },
+    "Kakariko Potion Shop" : {
+        "Kakariko Potion Shop Top Left Item 1" : "kpstli1",
+        "Kakariko Potion Shop Top Left Item 2" : "kpstli2",
+        "Kakariko Potion Shop Bottom Left Item 1" : "kpsbli1",
+        "Kakariko Potion Shop Bottom Left Item 2" : "kpsbli2",
+        "Kakariko Potion Shop Top Right Item 1" : "kpstri1",
+        "Kakariko Potion Shop Top Right Item 2" : "kpstri2",
+        "Kakariko Potion Shop Bottom Right Item 1" : "kpsbri1",
+        "Kakariko Potion Shop Bottom Right Item 2" : "kpsbri2"
+    },
+    "Kakariko Bazaar" : { 
+        "Kakariko Bazaar Shop Top Left Item 1" : "kbstli1",
+        "Kakariko Bazaar Shop Top Left Item 2" : "kbstli2",
+        "Kakariko Bazaar Shop Bottom Left Item 1" : "kbsbli1",
+        "Kakariko Bazaar Shop Bottom Left Item 2" : "kbsbli2",
+        "Kakariko Bazaar Shop Top Right Item 1" : "kbstri1",
+        "Kakariko Bazaar Shop Top Right Item 2" : "kbstri2",
+        "Kakariko Bazaar Shop Bottom Right Item 1" : "kbsbri1",
+        "Kakariko Bazaar Shop Bottom Right Item 2" : "kbsbri2" 
+    },
+    "Goron Shop" : {
+        "Goron Shop Top Left Item 1" : "gstli1",
+        "Goron Shop Top Left Item 2" : "gstli2",
+        "Goron Shop Bottom Left Item 1" : "gsbli1",
+        "Goron Shop Bottom Left Item 2" : "gsbli2",
+        "Goron Shop Top Right Item 1" : "gstri1",
+        "Goron Shop Top Right Item 2" : "gstri2",
+        "Goron Shop Bottom Right Item 1" : "gsbri1",
+        "Goron Shop Bottom Right Item 2" : "gsbri2"
+    },
+    "Zora Shop" : {
+        "Zora Shop Top Left Item 1" : "zstli1",
+        "Zora Shop Top Left Item 2" : "zstli2",
+        "Zora Shop Bottom Left Item 1" : "zsbli1",
+        "Zora Shop Bottom Left Item 2" : "zsbli2",
+        "Zora Shop Top Right Item 1" : "zstri1",
+        "Zora Shop Top Right Item 2" : "zstri2",
+        "Zora Shop Bottom Right Item 1" : "zsbri1",
+        "Zora Shop Bottom Right Item 2" : "zsbri2"
+    }
+}

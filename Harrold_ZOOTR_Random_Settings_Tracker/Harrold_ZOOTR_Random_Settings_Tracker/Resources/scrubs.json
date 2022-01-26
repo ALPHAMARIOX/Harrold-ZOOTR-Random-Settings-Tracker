@@ -1,0 +1,42 @@
+{
+    "special" : {
+        "Lost Woods Bridge Stick Scrub": "lwbss",
+        "Lost Woods Scrubs Grotto Front Scrub" : "lwsgfs",
+        "Hyrule Field Piece of Heart Scrub" : "hfpohs"
+    },
+    "normal" : {
+        "Lost Woods Scrubs Grotto Back Scrub" : "lwsgbs",
+        "Lost Woods Theater Near Soil Scrub" : "lwtnss",
+        "Lost Woods Theater Back Scrub" : "lwtbs",
+        "Sacred Forest Meadow Storms Grotto Front Scrub" : "sfmsgfs",
+        "Sacred Forest Meadow Storms Grotto Back Scrub" : "sfmsgbs",
+        "Lon Lon Ranch Left Scrub" : "llrls",
+        "Lon Lon Ranch Middle Scrub" : "llrms",
+        "Lon Lon Ranch Right Scrub" : "llrrs",
+        "Lake Hylia Scrubs Grotto Left Scrub" : "lhsgls",
+        "Lake Hylia Scrubs Grotto Middle Scrub" : "lhsgms",
+        "Lake Hylia Scrubs Grotto Right Scrub" : "lhsgrs",
+        "Dodongo's Cavern Near Switch Scrub" : "dcnss",
+        "Dodongo's Cavern Main Room Scrub" : "dcmrs",
+        "Dodongo's Cavern Spike Trap Room Left Scrub" : "dcstrls",
+        "Dodongo's Cavern Spike Trap Room Right Scrub" : "dcstrrs",
+        "Jabu Scrub" : "js",
+        "Zora's River Storms Grotto Front Scrub" : "zrsgfs",
+        "Zora's River Storms Grotto Back Scrub" : "zrsgbs",
+        "Death Mountain Crater Scrub" : "dmcs",
+        "Death Mountain Crater Scrub Grotto Left Scrub" : "dmcsgls",
+        "Death Mountain Crater Scrub Grotto Middle Scrub" : "dmcsgms",
+        "Death Mountain Crater Scrub Grotto Right Scrub" : "dmcsgrs",
+        "Goron City Left Scrub" : "gcls",
+        "Goron City Middle Scrub" : "gcms",
+        "Goron City Right Scrub" : "gcrs",
+        "Gerudo Valley Front Scrub" : "gvfs",
+        "Gerudo Valley Back Scrub" : "gvbs",
+        "Desert Colossus Front Scrub" : "dcfs",
+        "Desert Colossus Back Scrub" : "dcbs",
+        "Ganon's Castle Far Left Scrub" : "gcfls",
+        "Ganon's Castle Middle Left Scrub" : "gcmls",
+        "Ganon's Castle Middle Right Scrub" : "gcmrs",
+        "Ganon's Castle Far Right Scrub" : "gcfrs"
+    }
+}
