@@ -61,6 +61,7 @@
             this.picBolero = new System.Windows.Forms.PictureBox();
             this.picMinuet = new System.Windows.Forms.PictureBox();
             this.tpgKeys = new System.Windows.Forms.TabPage();
+            this.tpgShops = new System.Windows.Forms.TabPage();
             this.tclMain.SuspendLayout();
             this.tpgWarps.SuspendLayout();
             this.grpSpawns.SuspendLayout();
@@ -86,6 +87,7 @@
             this.tclMain.Controls.Add(this.tpgLocations);
             this.tclMain.Controls.Add(this.tpgWarps);
             this.tclMain.Controls.Add(this.tpgKeys);
+            this.tclMain.Controls.Add(this.tpgShops);
             this.tclMain.Location = new System.Drawing.Point(-1, 30);
             this.tclMain.Name = "tclMain";
             this.tclMain.SelectedIndex = 0;
@@ -384,6 +386,16 @@
             this.tpgKeys.Text = "Keys";
             this.tpgKeys.UseVisualStyleBackColor = true;
             // 
+            // tpgShops
+            // 
+            this.tpgShops.Location = new System.Drawing.Point(4, 22);
+            this.tpgShops.Name = "tpgShops";
+            this.tpgShops.Padding = new System.Windows.Forms.Padding(3);
+            this.tpgShops.Size = new System.Drawing.Size(1268, 729);
+            this.tpgShops.TabIndex = 6;
+            this.tpgShops.Text = "Shops";
+            this.tpgShops.UseVisualStyleBackColor = true;
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -449,6 +461,7 @@
         private System.Windows.Forms.TextBox txtBolero;
         private System.Windows.Forms.TextBox txtMinuet;
         private System.Windows.Forms.TabPage tpgKeys;
+        private System.Windows.Forms.TabPage tpgShops;
     }
 }
 
