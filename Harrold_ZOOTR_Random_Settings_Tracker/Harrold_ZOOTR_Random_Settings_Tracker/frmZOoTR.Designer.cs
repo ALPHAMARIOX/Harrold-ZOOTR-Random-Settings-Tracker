@@ -207,7 +207,7 @@
             // 
             // txtDMTOwl
             // 
-            this.txtDMTOwl.Location = new System.Drawing.Point(19, 260);
+            this.txtDMTOwl.Location = new System.Drawing.Point(19, 250);
             this.txtDMTOwl.Name = "txtDMTOwl";
             this.txtDMTOwl.Size = new System.Drawing.Size(273, 20);
             this.txtDMTOwl.TabIndex = 13;
